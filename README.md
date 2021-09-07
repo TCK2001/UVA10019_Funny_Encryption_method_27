@@ -1,0 +1,1 @@
+# UVA10019_Funny_Encryption_method_27
